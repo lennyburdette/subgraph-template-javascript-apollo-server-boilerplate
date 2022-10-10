@@ -39,7 +39,7 @@ There is a `.template` folder included in this template that provides a "wizard"
 - Write your custom deploy logic in `.github/workflows/deploy.yaml`.
 
 [apollo federation]: https://www.apollographql.com/docs/federation/
-[apollo server]: https://www.apollographql.com/docs/apollo-server/
+[@apollo/server]: https://www.apollographql.com/docs/apollo-server/
 [@apollo/subgraph]: https://www.apollographql.com/docs/federation/subgraphs
 [rover]: https://www.apollographql.com/docs/rover/
 [nodemon]: https://www.npmjs.com/package/nodemon
